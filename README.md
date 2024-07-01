@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishant Siwakoti</h1>
 <h3 align="center">Computer Engineer</h3>
 
-<p align="left"> <img src="https://www.nishantshiwakoti.com.np/assets/ps-D2G3xVRK.png"</p>
+<p align="left">
+  <img src="https://www.nishantshiwakoti.com.np/assets/ps-D2G3xVRK.png" style="float: right; max-width: 200px; margin-left: 15px;">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantsiwakoti" alt="nishantsiwakoti" /></a> </p>
 
