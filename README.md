@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantsiwakoti" alt="nishantsiwakoti" /></a> </p>
 
-- 🤝 My all Projects are available at [https://www.nishantshiwakoti.com.np/](https://www.nishantshiwakoti.com.np/)
+- 🤝 My all Projects are available at [https://www.nishantsiwakoti.com.np/](https://www.nishantsiwakoti.com.np/)
 
-- Portfolio [https://www.nishantshiwakoti.com.np/](https://www.nishantshiwakoti.com.np/)
+- Portfolio [https://www.nishantsiwakoti.com.np/](https://www.nishantsiwakoti.com.np/)
 
 - 💬 Ask me about **Reactjs,TailwindCSS,NextJs,JS**
 
